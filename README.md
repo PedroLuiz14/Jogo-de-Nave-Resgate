@@ -7,4 +7,4 @@ Neste projeto, desenvolvemos juntos um jogo de nave utilizando HTML, CSS, Javasc
 
 ## Para rodar o projeto
 
-Para executarmos o projeto, basta apenas abrir o arquivo index.html em um navegador de preferência.
+Para executar o projeto, basta apenas abrir o arquivo index.html em um navegador de preferência.
